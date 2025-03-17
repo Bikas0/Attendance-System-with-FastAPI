@@ -17,4 +17,3 @@ tqdm == 4.66.1
 uvicorn==0.22.0
 fastapi==0.65.1
 python-multipart==0.0.8
-retina-face
